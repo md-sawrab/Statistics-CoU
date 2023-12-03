@@ -1,2 +1,2 @@
 # Academic-Assingment
-Repository for my academic SPSS course assingment.
+Repository for myacademic course assingment.
