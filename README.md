@@ -1,2 +1,2 @@
 # Academic-Assingment
-Repository for myacademic course assingment.
+Repository for my academic course assingment.
